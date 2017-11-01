@@ -11,7 +11,7 @@ import {
 const Images = [
     {
         uri: "https://i.imgur.com/mxgtWKt.jpg",
-        label: "Pussy in jeans"
+        label: "Cat in jeans"
     },
 
     {
